@@ -28,8 +28,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About",
+          "content": "This is a website about machine learning, inferential statistics and data visualization, written by (Jon Areas)[https://github.com/jxareas]. . Some books, courses and articles in this blog, are inspired by: . Introduction to Statistical Learning | Fastai’s Deep Learning for Coders | The Machine Learning Zoomcamp course | . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://jxareas.github.io/ML-Blog/about/",
           "relUrl": "/about/",
           "date": ""
